@@ -1,11 +1,11 @@
 # 飛田 祐聖 / Yusei Hida
 
-奈良先端科学技術大学院大学（NAIST）情報科学領域 修士1年 / 2028年卒業予定。<br>
+奈良先端科学技術大学院大学（NAIST）情報科学領域 修士1年 / 2028年3月修了予定。<br>
 データサイエンティスト・機械学習エンジニアを志望しています。
 
 **C++によるアルゴリズム・進化計算の研究経験を基礎に、現在はPythonでスマートホームのセンサデータ解析と人間行動認識に取り組んでいます。研究に加え、Web技術やハードウェアを組み合わせたプロトタイプ開発も経験しています。**
 
-- **Research:** Human Activity Recognition / Sensor Data / Zero-shot Learning
+- **Research:** Human Activity Recognition / Sensor Data / Activity Segmentation / Zero-shot Activity Recognition
 - **Core:** Python / C++ / Machine Learning / Data Analysis / Evolutionary Computation
 - **Development:** センサ入力から認識、可視化、動作するデモまで一貫して実装
 
@@ -27,7 +27,7 @@
 
 ### Current Research
 
-- **情報処理学会 関西支部大会（G-37）**<br>
+- **情報処理学会 関西支部大会 2026（G-37）**<br>
   「Zero-shot宅内行動認識に向けた行動区間推定手法の検討」 — [発表プログラム](https://kansai.ipsj.or.jp/guide/pages/proceedings/kaisai_2026/sessions/session-g09.html)
 
 ### Previous Research
@@ -36,9 +36,9 @@
   「自律的に統廃合を繰り返す進化計算アルゴリズムにおける簡略個体の評価」 — [DOI](https://doi.org/10.14864/fss.41.0_730)
 - **ICICIC2025**<br>
   “Development of an Evolutionary Algorithm with Autonomous Merge-and-Split and Applying to the Polygon Packing Problem” — [Program](https://www.aims.or.th/wp-content/uploads/2025/08/2025-08-26-ICICIC2025-Program.pdf)
-- **日本設備管理学会 知能技術応用研究部会**<br>
+- **日本設備管理学会 知能技術応用研究部会（2025）**<br>
   「自律的に統廃合を繰り返す進化計算アルゴリズムにおける統廃合規則の検証」 — [開催案内](https://www.sopej.gr.jp/wp-content/uploads/2025/02/⑤-SOPEJsigITA2024-2知能技術応用研究部会-大分高専情報0221.pdf)
-- **第26回 日本知能情報ファジィ学会九州支部学術講演会**<br>
+- **第26回 日本知能情報ファジィ学会九州支部学術講演会（2024）**<br>
   「自律的に統廃合を繰り返す進化計算アルゴリズムの開発と任意の枠における多角形詰込み問題への応用」 — [Program](https://soft-kyushu.org/2024/conf/prog.html)
 
 ## Projects
@@ -61,20 +61,20 @@ NAISTの実践型プログラムGEIOTでチーム開発したプロダクトで�
 
 ## Skills
 
-| 分野 | 技術・経験 |
-|---|---|
+| 分野                | 技術・経験                                                               |
+| ----------------- | ------------------------------------------------------------------- |
 | Data Science / ML | Python, pandas, NumPy, scikit-learn, matplotlib, 時系列データ解析, センサデータ処理 |
-| Algorithms | C++（約5年）, 遺伝的アルゴリズム, 進化計算, 最適化, 実験・可視化・性能比較 |
-| Prototyping | TypeScript, React, JavaScript, Raspberry Pi, DeviceMotion API |
-| Other Experience | Java, R, MATLAB, Unity, ROS2, YOLO |
+| Algorithms        | C++（約5年）, 遺伝的アルゴリズム, 進化計算, 最適化, 実験・可視化・性能比較                         |
+| Prototyping       | TypeScript, React, JavaScript, Raspberry Pi, DeviceMotion API       |
+| Other Experience  | Java, R, MATLAB, Unity, ROS2, YOLO                                  |
 
 ## Activities & Experience
 
-- エムスリー株式会社 データサイエンティストインターン参加（データ分析から発表までを経験）
-- 技育CAMPでDeskMateをチーム開発、サポーターズ賞を受賞
-- GEIOTで「すきのたね」をチーム開発、ビジコンOSAKAで代表発表
+- エムスリー株式会社 データサイエンティストインターン参加
+- 技育CAMP サポーターズ賞受賞
+- GEIOT参加，ビジコンOSAKAで代表発表
 - [THE HACK 2026](https://thehack.nxtend.or.jp/) 参加
-- 高専専攻科の約12名の異分野チームで災害対応自律ロボットを共同制作（ROS2 / YOLO / 自律走行）
+- 高専専攻科で災害対応自律ロボットを共同制作（ROS2 / YOLO / 自律走行）
 
 ## Certification
 
