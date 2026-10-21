@@ -28,7 +28,8 @@
 ### Current Research
 
 - **情報処理学会 関西支部大会 2026（G-37）**<br>
-  「Zero-shot宅内行動認識に向けた行動区間推定手法の検討」 — [発表プログラム](https://kansai.ipsj.or.jp/guide/pages/proceedings/kaisai_2026/sessions/session-g09.html)
+  「Zero-shot宅内行動認識に向けた行動区間推定手法の検討」 — [発表プログラム](https://kansai.ipsj.or.jp/guide/pages/proceedings/kaisai_2026/sessions/session-g09.html)<br>
+  **学生優秀発表賞 受賞** — [受賞者一覧](https://kansai.ipsj.or.jp/record/)
 
 ### Previous Research
 
